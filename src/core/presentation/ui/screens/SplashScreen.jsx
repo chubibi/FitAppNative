@@ -8,6 +8,6 @@ export const SplashScreen = () => {
 
   return <View style={s.viewContainer}>
     <Icon name="menu-open" size={48} color="#fff" />
-    <Text style={s.textLoadingApp}>Cargando Menú</Text>
+    <Text style={s.textLoadingApp}>Bienvenido a FitApp</Text>
   </View>
 }
